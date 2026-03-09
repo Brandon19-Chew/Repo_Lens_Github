@@ -1,15 +1,12 @@
-# Welcome to your OnSpace project
+# Repo_Lens_Github
 
-## How can I edit this code?
+This project is foroverview the link project is from the Github. Enter the url then back process will perform file structure including overview summary that similar to the Github project files.
 
-There are several ways of editing your application.
+------------------------------
+# 📽️ Demo 
 
-**Use OnSpace**
-
-Simply visit the [OnSpace Project]() and start prompting.
-
-Changes made via OnSpace will be committed automatically to this repo.
-
+------------------------------
+# Setup 
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in OnSpace.
@@ -56,6 +53,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [OnSpace]() and click on Share -> Publish.
