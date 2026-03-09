@@ -1,12 +1,16 @@
 # Repo_Lens_Github
 
-This project is foroverview the link project is from the Github. Enter the url then back process will perform file structure including overview summary that similar to the Github project files.
+This project is for overview the link project is from the Github. Enter the url then back process will perform file structure including overview summary that similar to the Github project files.
 
 ------------------------------
 # 📽️ Demo 
 
+https://github.com/user-attachments/assets/61828a85-2dbd-4405-95d8-2af2d3189da8
+
+
+
 ------------------------------
-# Setup 
+# 💽 Setup 
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in OnSpace.
